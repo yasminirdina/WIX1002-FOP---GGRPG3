@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/states/GameState.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/worlds/MapsBasic.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/type/NpcTile.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/states/State.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/KeyManager.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/hannah/Combat.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/GetEverything.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/hannah/Player.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/gfx/Assets.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/type/StoneTile1.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/type/WallTile.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/type/GrassTile3.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/Game.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/display/Display.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/hannah/Creature.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/states/MenuState.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/type/GrassTile2.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/type/StoneTile2.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/type/PlayerTile.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/hannah/NPC.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/gfx/ImageSet.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/Tile.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/worlds/World.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/gfx/ImageLoader.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/type/WaterTile.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/ReadMeToUnderstand.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/gfx/Sound.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/type/EnemyTile.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/gfx/GameCamera.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/hannah/Enemy.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/hannah/InteractNPC.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/type/DesertTile.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/type/GrassTile4.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/Launcher.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/hannah/Entity.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/tiles/type/GrassTile1.java</file>
+            <file>file:/C:/Users/Yasmin%20Irdina/Documents/DEGREE/FSKTM/BCS%20IS/WIX1002%20FOP/GROUP%20PROJECT/GGRPG3/src/ggrpg3/hannah/WisePanda.java</file>
+        </group>
+    </open-files>
+</project-private>
